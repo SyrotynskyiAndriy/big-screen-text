@@ -39,6 +39,7 @@ Big Screen Text — це програма для відображення тек
 ## Автор
 
 Засновник - Андрій Сиротинський
+
 Email: bigscreentext.support@proton.me
 
 ## Ліцензія
