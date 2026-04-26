@@ -2,7 +2,7 @@
 
 Big Screen Text — це програма для відображення тексту та біблійних віршів на великому екрані (проєкторі). Є аналогом відомої програми VisioBible.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Window
 ![Main](screenshots/main.png)
